@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1448F898-55D9-49BB-949E-BB52387C640D}|..\\Ch1\\Ch1.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch1\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8863FE1-C809-4AAB-AB10-A508A653BE31}|CStudy.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\Helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C8863FE1-C809-4AAB-AB10-A508A653BE31}|CStudy.vcxproj|solutionrelative:Helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Variable.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch1\\Variable.c",
+              "RelativeDocumentMoniker": "..\\Ch1\\Variable.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch1\\Variable.c",
+              "RelativeToolTip": "..\\Ch1\\Variable.c",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-17T07:28:22.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Helloworld.cpp",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\Helloworld.cpp",
               "RelativeDocumentMoniker": "Helloworld.cpp",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\Helloworld.cpp",
               "RelativeToolTip": "Helloworld.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-14T07:19:12.177Z",
               "EditorCaption": ""
