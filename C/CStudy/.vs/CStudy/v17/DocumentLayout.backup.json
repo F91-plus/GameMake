@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DBDD6F4A-81B7-4A9D-80BA-90F3185EC298}|..\\Ch2\\Ch2.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch2\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1448F898-55D9-49BB-949E-BB52387C640D}|..\\Ch1\\Ch1.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch1\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -17,30 +20,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Variable.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch1\\Variable.c",
               "RelativeDocumentMoniker": "..\\Ch1\\Variable.c",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch1\\Variable.c",
               "RelativeToolTip": "..\\Ch1\\Variable.c",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwB8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvysAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-17T07:28:22.584Z",
+              "WhenOpened": "2025-02-18T08:01:55.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch2\\Main.c",
+              "RelativeDocumentMoniker": "..\\Ch2\\Main.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch2\\Main.c",
+              "RelativeToolTip": "..\\Ch2\\Main.c",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAawFYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-18T07:07:46.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Helloworld.cpp",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\Helloworld.cpp",
               "RelativeDocumentMoniker": "Helloworld.cpp",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\Helloworld.cpp",
               "RelativeToolTip": "Helloworld.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-14T07:19:12.177Z",
               "EditorCaption": ""
