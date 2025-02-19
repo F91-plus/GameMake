@@ -86,6 +86,7 @@ int main() {
 	//게임의 스토리
 	//무기를 강화하는데
 	//n강일 때의 무기, n+1 무기의 정보를 화면에 출력
+	printf("============ 스토리 1 ============\n");
 	int select;
 	int basic = 3, total1 = basic, total2=0;
 	printf("확인하고 싶은 무기 강화 정보를 입력(0~9): ");
@@ -103,6 +104,7 @@ int main() {
 	// A아이템을 n개 횟득, B아이템 m개 획득
 	// 현재 인벤토리의 갯수가 가득 찼는지 안찼는지 표현하는 결과를 표현
 	// 3항 연산자
+	printf("============ 스토리 2 ============\n");
 	int Slot=3, Stack=3;
 	int item_A, item_B;
 	int item_box = Slot * Stack;
@@ -113,7 +115,19 @@ int main() {
 	printf("획득 하신 아이템B의 개수를 입력 : ");
 	scanf_s("%d", &item_B);
 	item_AB = item_A + item_B;
+	item_box >= item_AB ?
+	printf("남은 인벤토리 칸 : %d\n", item_box-item_AB) : printf("현재 인벤토리에 넣을 공간이 없습니다.\n");
 
 	//3
 	//사용자 정의 스토리 작성
+	//현재 무기로 몇번을 떄려야 몬스터를 잡을 수 있을까?
+	printf("============ 스토리 3 ============\n");
+	int monster = 100;
+	int ap = 0, total_ap=0;
+	printf("몬스터의 체력 : 100\n");
+	printf("몇 번 공격을 할까요?");
+	scanf_s("%d", &ap);
+	total_ap = ap * total1;
+	monster < total_ap ?
+		printf("몬스터 처치\n") : printf("몬스터 처치 실패, 남은 체력 : %d\n", monster - total_ap);
 }
