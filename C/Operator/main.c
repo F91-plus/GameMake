@@ -107,16 +107,25 @@ int main() {
 	printf("============ 스토리 2 ============\n");
 	int Slot=3, Stack=3;
 	int item_A, item_B;
-	int item_box = Slot * Stack;
-	int item_AB;
-	printf("현재 인벤토리 칸은 %d칸입니다.\n", item_box);
+	//int item_box = Slot * Stack;
+	// int item_AB;
+	printf("현재 인벤토리 칸은 %d칸입니다.(같은 아이템은 3개까지만)\n", Slot);
 	printf("획득 하신 아이템A의 개수를 입력 : ");
 	scanf_s("%d", &item_A);
 	printf("획득 하신 아이템B의 개수를 입력 : ");
 	scanf_s("%d", &item_B);
-	item_AB = item_A + item_B;
-	item_box >= item_AB ?
-	printf("남은 인벤토리 칸 : %d\n", item_box-item_AB) : printf("현재 인벤토리에 넣을 공간이 없습니다.\n");
+
+	int item_A_count = (item_A % Stack) == 0 ? (item_A / Stack) : (item_A / Stack) + 1;
+	int item_B_count = (item_B % Stack) == 0 ? (item_B / Stack) : (item_B / Stack) + 1;
+
+	printf("%s", Slot <= (item_A_count + item_B_count) ? "가득참" : "공간 남아있음");
+	//item_AB = item_A + item_B;
+	//item_box >= item_AB ?
+	//printf("남은 인벤토리 칸 : %d\n", item_box-item_AB) : printf("현재 인벤토리에 넣을 공간이 없습니다.\n");
+
+	// Stack은 같은 아이템일 경우 하나의 Slot에서 쌓여지는 아이템 개수로 표시한다.
+	// 흠
+	// a % b == 0 ? printf : printf
 
 	//3
 	//사용자 정의 스토리 작성
