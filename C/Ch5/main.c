@@ -144,7 +144,5 @@ int main() {
 	// [char -> short] -> int -> long -> float -> double
 	// char, short는 예외적 case2. 로 설명
 
-
-
 	return 0;
 }

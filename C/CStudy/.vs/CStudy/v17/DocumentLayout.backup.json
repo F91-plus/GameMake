@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B7FE54D-FF6D-4DC6-A83E-7E52C1A46F2B}|..\\Ch5\\Ch5.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EDAB229D-897A-4999-97B0-491869D4EBAE}|..\\main.c\\main.c.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\main.c\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8863FE1-C809-4AAB-AB10-A508A653BE31}|CStudy.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\Helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,22 +27,22 @@
               "RelativeDocumentMoniker": "Helloworld.cpp",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\Helloworld.cpp",
               "RelativeToolTip": "Helloworld.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-21T07:04:20.468Z",
+              "WhenOpened": "2025-02-24T07:04:08.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch5\\main.c",
-              "RelativeDocumentMoniker": "..\\Ch5\\main.c",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch5\\main.c",
-              "RelativeToolTip": "..\\Ch5\\main.c",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAqwJEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\main.c\\main.c",
+              "RelativeDocumentMoniker": "..\\main.c\\main.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\main.c\\main.c",
+              "RelativeToolTip": "..\\main.c\\main.c",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwFwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-21T07:01:39.075Z",
+              "WhenOpened": "2025-02-24T07:02:16.562Z",
               "EditorCaption": ""
             }
           ]
