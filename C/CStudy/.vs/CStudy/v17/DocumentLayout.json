@@ -3,11 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDAB229D-897A-4999-97B0-491869D4EBAE}|..\\main.c\\main.c.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\main.c\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AC819F04-2AB5-4CD7-AB4D-31D091C65549}|..\\Ch7\\Ch7.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8863FE1-C809-4AAB-AB10-A508A653BE31}|CStudy.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\Helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C8863FE1-C809-4AAB-AB10-A508A653BE31}|CStudy.vcxproj|solutionrelative:Helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAB229D-897A-4999-97B0-491869D4EBAE}|..\\main.c\\main.c.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\main.c\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +20,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch7\\main.c",
+              "RelativeDocumentMoniker": "..\\Ch7\\main.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch7\\main.c",
+              "RelativeToolTip": "..\\Ch7\\main.c",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwFIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-25T07:02:05.145Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -34,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\main.c\\main.c",
               "RelativeDocumentMoniker": "..\\main.c\\main.c",
