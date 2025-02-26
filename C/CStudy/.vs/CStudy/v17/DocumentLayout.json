@@ -3,14 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31A2F60D-ACD3-49E1-8C9A-409AB2D8CA94}|..\\Ch_8\\Ch_8.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2F60D-ACD3-49E1-8C9A-409AB2D8CA94}|..\\Ch_8\\Ch_8.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\menu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2F60D-ACD3-49E1-8C9A-409AB2D8CA94}|..\\Ch_8\\Ch_8.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2F60D-ACD3-49E1-8C9A-409AB2D8CA94}|..\\Ch_8\\Ch_8.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\WeaponUpgrade.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2F60D-ACD3-49E1-8C9A-409AB2D8CA94}|..\\Ch_8\\Ch_8.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\upgrade.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC819F04-2AB5-4CD7-AB4D-31D091C65549}|..\\Ch7\\Ch7.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8863FE1-C809-4AAB-AB10-A508A653BE31}|CStudy.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\Helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C8863FE1-C809-4AAB-AB10-A508A653BE31}|CStudy.vcxproj|solutionrelative:Helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDAB229D-897A-4999-97B0-491869D4EBAE}|..\\main.c\\main.c.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\main.c\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,45 +28,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch7\\main.c",
-              "RelativeDocumentMoniker": "..\\Ch7\\main.c",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch7\\main.c",
-              "RelativeToolTip": "..\\Ch7\\main.c",
-              "ViewState": "AgIAADkAAAAAAAAAAAAqwFIAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "upgrade.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\upgrade.c",
+              "RelativeDocumentMoniker": "..\\Ch_8\\upgrade.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\upgrade.c",
+              "RelativeToolTip": "..\\Ch_8\\upgrade.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-25T07:02:05.145Z",
+              "WhenOpened": "2025-02-26T08:31:04.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeaponUpgrade.h",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\WeaponUpgrade.h",
+              "RelativeDocumentMoniker": "..\\Ch_8\\WeaponUpgrade.h",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\WeaponUpgrade.h",
+              "RelativeToolTip": "..\\Ch_8\\WeaponUpgrade.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-26T08:29:36.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Helloworld.cpp",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\Helloworld.cpp",
-              "RelativeDocumentMoniker": "Helloworld.cpp",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\Helloworld.cpp",
-              "RelativeToolTip": "Helloworld.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-24T07:04:08.225Z",
+              "Title": "menu.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\menu.c",
+              "RelativeDocumentMoniker": "..\\Ch_8\\menu.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\menu.c",
+              "RelativeToolTip": "..\\Ch_8\\menu.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-26T08:16:12.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "menu.h",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\menu.h",
+              "RelativeDocumentMoniker": "..\\Ch_8\\menu.h",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\menu.h",
+              "RelativeToolTip": "..\\Ch_8\\menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-26T08:09:15.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\main.c\\main.c",
-              "RelativeDocumentMoniker": "..\\main.c\\main.c",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\main.c\\main.c",
-              "RelativeToolTip": "..\\main.c\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch7\\main.c",
+              "RelativeDocumentMoniker": "..\\Ch7\\main.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch7\\main.c",
+              "RelativeToolTip": "..\\Ch7\\main.c",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvy0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-24T07:02:16.562Z",
+              "WhenOpened": "2025-02-26T07:49:53.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\main.c",
+              "RelativeDocumentMoniker": "..\\Ch_8\\main.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\Ch_8\\main.c",
+              "RelativeToolTip": "..\\Ch_8\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-26T07:05:08.116Z",
               "EditorCaption": ""
             }
           ]
