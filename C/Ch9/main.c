@@ -60,12 +60,35 @@
 
 */
 
+/*
+	02.28
+	내가 가진 돈의 정보를 보여줘
+*/
+
 #include "lecture.h"
 #include "Upgrade.h"
+#include "CurrentMonsy.h"
+#include "main.h"
 
 int number=1;
+int CurrentMoney = 50;
+
+void ShowInfo() {
+	printf("캐릭터의 클래스 %s\n", "모험가");
+	printf("현재 가진 돈 : %d\n", CurrentMoney);
+
+	WaitInputKey();//추출할 코드를 드래그 후 우클릭 - 간편 작업 - 함수추출
+}
+
+void WaitInputKey()
+{
+	printf("아무 키를 입력하시요.");
+	_getch();
+}
 
 int main() {
+	ShowInfo();
+	system("cls");
 	//ShowExample();// 오늘 배운 수업 내용들
 	ShowUpgradeMenu();// 무기강화
 }
