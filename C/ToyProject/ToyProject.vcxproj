@@ -127,12 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Currency.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="Random.c" />
     <ClCompile Include="Toy_Enforce.c" />
     <ClCompile Include="Toy_Intro.c" />
     <ClCompile Include="Toy_Play.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Currency.h" />
+    <ClInclude Include="Random.h" />
     <ClInclude Include="Toy_Enforce.h" />
     <ClInclude Include="Toy_Intro.h" />
     <ClInclude Include="Toy_Play.h" />

@@ -2,38 +2,49 @@
 
 void ShowMenu()
 {
-	printf("1 start enfoce\n");
+	printf("Coin : %d\n", Coin);
+	printf("1 start enfoce (Use : 1 Coin, 성공확률 : 85%)\n");
 	printf("2 now state check\n");
 
 	int inputNumber = -1;
 	scanf_s("%d", &inputNumber);
 	while (getchar() != '\n');
 
-	if (inputNumber == 1) {
+	if (inputNumber == 1 && Coin > 0) {
 		//enfoce
-		Upgrade();
+
+		/*
+			강의용
+			if (CanUpgrade(UpgradeCost)) {
+				if (CheckRandomFunc(85)) {
+				Upgrade();
+			}
+			else
+			{
+				printf("강화 실패!!!!!!!!!!!!!\n");
+			}
+		*/
+
+		//int random = ReutrnRandomValue();
+		//printf("random : %d", random);
+
+		if (CheckRandomFunc(85)) {
+			Upgrade();
+		}
+		else
+		{
+			printf("강화 실패!!!!!!!!!!!!!\n");
+		}
+
 	}
 	else if (inputNumber == 2) {
 		// state check
+		ShowStatus();
 	}
 	else {
 		// not correct
-		printf("재입력 필요");
+		printf("재입력 필요\n");
 	}
-
-	// 미션 여부 확인
-	if (ToyGameClear(true)) {
-		printf("game clear\n");
-	}
-	else if(ToyGameClear(false))
-	{
-		//소지금 확인, 강화 레벨 확인
-		printf("계속 진행");
-	}
-	else {
-		printf("Mission fail\n");
-	}
-
 
 	printf("계속 진행 할려면 아무 키를 입력해\n");
 	_getch();
@@ -42,16 +53,21 @@ void ShowMenu()
 
 void Upgrade()
 {
+	Coin--;
 	CurrentLevel++;
-	//printf("%d\n", CurrentLevel);
+	W_AP = W_AP + CurrentLevel;
+
+	printf("Coin 1 소모!\n");
+	printf("강화 성공!!\n결과 : +%d 나뭇가지", CurrentLevel);
 }
 
 void ShowStatus()
 {
+	printf("+%d 나뭇가지\n공격력 : %d\n방어력 : 0\n", CurrentLevel, W_AP);
 }
 
 // 현재 무기 레벨 == 최대 레벨 -> 미션 성공
 bool ToyGameClear()
 {
-	return CurrentLevel == MissionLevel ? true : false;
+	return CurrentLevel >= MissionLevel ? true : false;
 }

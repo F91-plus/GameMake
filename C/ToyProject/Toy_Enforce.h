@@ -9,6 +9,8 @@
 #include <Windows.h>	// system("cls") window console function
 #include <stdlib.h>	// rand() function header
 #include <time.h>	// time() function header
+#include "Random.h"	// 업그레이드 확률, 사용자 정의 헤더
+#include "Currency.h"	// (강의용) 업글 비용
 
 void ShowMenu();
 
@@ -25,5 +27,7 @@ bool ToyGameClear();
 // 전역 변수
 extern int CurrentLevel;
 extern int MissionLevel;
+extern int Coin;
+extern int W_AP;
 extern bool MissionCheck;
-extern bool MoneyCheck;
+extern bool CoinCheck;
