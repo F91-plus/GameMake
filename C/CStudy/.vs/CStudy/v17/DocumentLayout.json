@@ -3,6 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8829C60-2174-4811-AF34-62B30F71D00E}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8829C60-2174-4811-AF34-62B30F71D00E}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\border.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8829C60-2174-4811-AF34-62B30F71D00E}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\border.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41853DB2-9A3B-4389-82D5-AF1CD1382A85}|..\\ToyProject\\ToyProject.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Toy_Enforce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -37,11 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "border.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\border.c",
+              "RelativeDocumentMoniker": "..\\MoveInConsole\\border.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\border.c",
+              "RelativeToolTip": "..\\MoveInConsole\\border.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-06T07:21:33.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "border.h",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\border.h",
+              "RelativeDocumentMoniker": "..\\MoveInConsole\\border.h",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\border.h",
+              "RelativeToolTip": "..\\MoveInConsole\\border.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T07:21:28.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\main.c",
+              "RelativeDocumentMoniker": "..\\MoveInConsole\\main.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\main.c",
+              "RelativeToolTip": "..\\MoveInConsole\\main.c",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-06T07:04:02.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Currency.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Currency.c",
               "RelativeDocumentMoniker": "..\\ToyProject\\Currency.c",
@@ -49,12 +97,11 @@
               "RelativeToolTip": "..\\ToyProject\\Currency.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T08:04:31.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T08:04:31.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Currency.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Currency.h",
               "RelativeDocumentMoniker": "..\\ToyProject\\Currency.h",
@@ -62,12 +109,11 @@
               "RelativeToolTip": "..\\ToyProject\\Currency.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T08:04:25.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T08:04:25.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Toy_Play.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Toy_Play.c",
               "RelativeDocumentMoniker": "..\\ToyProject\\Toy_Play.c",
@@ -75,25 +121,24 @@
               "RelativeToolTip": "..\\ToyProject\\Toy_Play.c",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T07:36:36.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T07:36:36.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Toy_Enforce.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Toy_Enforce.c",
               "RelativeDocumentMoniker": "..\\ToyProject\\Toy_Enforce.c",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Toy_Enforce.c",
               "RelativeToolTip": "..\\ToyProject\\Toy_Enforce.c",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-04T07:16:00.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\main.c",
               "RelativeDocumentMoniker": "..\\ToyProject\\main.c",
@@ -101,12 +146,11 @@
               "RelativeToolTip": "..\\ToyProject\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T07:00:52.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T07:00:52.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Toy_Intro.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Toy_Intro.c",
               "RelativeDocumentMoniker": "..\\ToyProject\\Toy_Intro.c",
@@ -114,12 +158,11 @@
               "RelativeToolTip": "..\\ToyProject\\Toy_Intro.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T07:59:23.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T07:59:23.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Random.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Random.c",
               "RelativeDocumentMoniker": "..\\ToyProject\\Random.c",
@@ -127,12 +170,11 @@
               "RelativeToolTip": "..\\ToyProject\\Random.c",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T07:03:38.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T07:03:38.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Random.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Random.h",
               "RelativeDocumentMoniker": "..\\ToyProject\\Random.h",
@@ -140,12 +182,11 @@
               "RelativeToolTip": "..\\ToyProject\\Random.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T07:03:30.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T07:03:30.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Toy_Enforce.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Toy_Enforce.h",
               "RelativeDocumentMoniker": "..\\ToyProject\\Toy_Enforce.h",
@@ -153,8 +194,7 @@
               "RelativeToolTip": "..\\ToyProject\\Toy_Enforce.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T07:03:00.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T07:03:00.067Z"
             }
           ]
         }
