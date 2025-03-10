@@ -6,40 +6,55 @@
       "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Enforce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41853DB2-9A3B-4389-82D5-AF1CD1382A85}|..\\ToyProject\\ToyProject.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Enforce.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Dungeon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41853DB2-9A3B-4389-82D5-AF1CD1382A85}|..\\ToyProject\\ToyProject.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8829C60-2174-4811-AF34-62B30F71D00E}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8829C60-2174-4811-AF34-62B30F71D00E}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Intro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Intro.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Dungeon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8829C60-2174-4811-AF34-62B30F71D00E}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Console.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Enforce.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8829C60-2174-4811-AF34-62B30F71D00E}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8829C60-2174-4811-AF34-62B30F71D00E}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41853DB2-9A3B-4389-82D5-AF1CD1382A85}|..\\ToyProject\\ToyProject.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41853DB2-9A3B-4389-82D5-AF1CD1382A85}|..\\ToyProject\\ToyProject.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Intro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41853DB2-9A3B-4389-82D5-AF1CD1382A85}|..\\ToyProject\\ToyProject.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Toy_Play.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -49,9 +64,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{41853DB2-9A3B-4389-82D5-AF1CD1382A85}|..\\ToyProject\\ToyProject.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8829C60-2174-4811-AF34-62B30F71D00E}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8829C60-2174-4811-AF34-62B30F71D00E}|..\\MoveInConsole\\MoveInConsole.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\border.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -76,23 +88,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Currency.h",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Currency.h",
-              "RelativeDocumentMoniker": "..\\ToyProject\\Currency.h",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Currency.h",
-              "RelativeToolTip": "..\\ToyProject\\Currency.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T08:04:25.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Toy_Play.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Toy_Play.c",
               "RelativeDocumentMoniker": "..\\ToyProject\\Toy_Play.c",
@@ -100,25 +100,24 @@
               "RelativeToolTip": "..\\ToyProject\\Toy_Play.c",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T07:36:36.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T07:36:36.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "Random.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Random.c",
               "RelativeDocumentMoniker": "..\\ToyProject\\Random.c",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Random.c",
               "RelativeToolTip": "..\\ToyProject\\Random.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-04T07:03:38.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "border.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\border.c",
               "RelativeDocumentMoniker": "..\\MoveInConsole\\border.c",
@@ -126,12 +125,11 @@
               "RelativeToolTip": "..\\MoveInConsole\\border.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-06T07:21:33.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T07:21:33.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "random.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\random.h",
               "RelativeDocumentMoniker": "..\\MoveInConsole\\random.h",
@@ -144,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\main.c",
               "RelativeDocumentMoniker": "..\\ToyProject\\main.c",
@@ -152,12 +150,11 @@
               "RelativeToolTip": "..\\ToyProject\\main.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T07:00:52.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T07:00:52.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Toy_Intro.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Toy_Intro.c",
               "RelativeDocumentMoniker": "..\\ToyProject\\Toy_Intro.c",
@@ -165,25 +162,24 @@
               "RelativeToolTip": "..\\ToyProject\\Toy_Intro.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T07:59:23.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T07:59:23.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "random.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\random.c",
               "RelativeDocumentMoniker": "..\\MoveInConsole\\random.c",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\random.c",
               "RelativeToolTip": "..\\MoveInConsole\\random.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-07T07:31:23.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "Random.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Random.h",
               "RelativeDocumentMoniker": "..\\ToyProject\\Random.h",
@@ -191,12 +187,11 @@
               "RelativeToolTip": "..\\ToyProject\\Random.h",
               "ViewState": "AgIAAAUAAAAAAAAAAAApwBcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T07:03:30.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T07:03:30.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Currency.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Currency.c",
               "RelativeDocumentMoniker": "..\\ToyProject\\Currency.c",
@@ -208,20 +203,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\main.c",
               "RelativeDocumentMoniker": "..\\MoveInConsole\\main.c",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\main.c",
               "RelativeToolTip": "..\\MoveInConsole\\main.c",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAApwIAAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-06T07:04:02.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
+              "Title": "Currency.h",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Currency.h",
+              "RelativeDocumentMoniker": "..\\ToyProject\\Currency.h",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Currency.h",
+              "RelativeToolTip": "..\\ToyProject\\Currency.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T08:04:25.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "border.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\MoveInConsole\\border.h",
               "RelativeDocumentMoniker": "..\\MoveInConsole\\border.h",
@@ -233,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Toy_Enforce.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\ToyProject\\Toy_Enforce.h",
               "RelativeDocumentMoniker": "..\\ToyProject\\Toy_Enforce.h",
@@ -247,32 +254,109 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Random.c",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Random.c",
-              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Random.c",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Random.c",
-              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Random.c",
-              "ViewState": "AgIAAAUAAAAAAAAAAAApwBkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Play.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.c",
+              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Play.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.c",
+              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Play.c",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T22:46:59.371Z",
+              "WhenOpened": "2025-03-07T10:14:29.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Random.h",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Random.h",
-              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Random.h",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Random.h",
-              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Random.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Play.h",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.h",
+              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Play.h",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.h",
+              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Play.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-07T22:46:52.383Z",
+              "WhenOpened": "2025-03-07T10:13:51.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Intro.h",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Intro.h",
+              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Intro.h",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Intro.h",
+              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Intro.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-07T09:00:04.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\main.c",
+              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\main.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\main.c",
+              "RelativeToolTip": "..\\GetCoinGoEnfoce\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-07T08:50:25.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Intro.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Intro.c",
+              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Intro.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Intro.c",
+              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Intro.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-07T08:52:08.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Console.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Console.c",
+              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Console.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Console.c",
+              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Console.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T08:12:19.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dungeon.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Dungeon.c",
+              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Dungeon.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Dungeon.c",
+              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Dungeon.c",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T07:10:51.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dungeon.h",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Dungeon.h",
+              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Dungeon.h",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Dungeon.h",
+              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Dungeon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T07:10:42.723Z",
               "EditorCaption": ""
             },
             {
@@ -283,87 +367,61 @@
               "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Enforce.c",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Enforce.c",
               "RelativeToolTip": "..\\GetCoinGoEnfoce\\Enforce.c",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAiwG4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-07T20:36:30.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Random.h",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Random.h",
+              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Random.h",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Random.h",
+              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Random.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-07T22:46:52.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Random.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Random.c",
+              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Random.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Random.c",
+              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Random.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-07T22:46:59.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Enforce.h",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Enforce.h",
               "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Enforce.h",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Enforce.h",
               "RelativeToolTip": "..\\GetCoinGoEnfoce\\Enforce.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-07T20:36:22.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Play.c",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.c",
-              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Play.c",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.c",
-              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Play.c",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAAEYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T10:14:29.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Play.h",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.h",
-              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Play.h",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.h",
-              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Play.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Console.h",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Console.h",
+              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Console.h",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Console.h",
+              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Console.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-07T10:13:51.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Intro.h",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Intro.h",
-              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Intro.h",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Intro.h",
-              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Intro.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-07T09:00:04.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\main.c",
-              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\main.c",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\main.c",
-              "RelativeToolTip": "..\\GetCoinGoEnfoce\\main.c",
-              "ViewState": "AgIAAAEAAAAAAAAAAAApwA8AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T08:50:25.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Intro.c",
-              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Intro.c",
-              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Intro.c",
-              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Intro.c",
-              "RelativeToolTip": "..\\GetCoinGoEnfoce\\Intro.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-07T08:52:08.935Z",
+              "WhenOpened": "2025-03-10T08:12:14.497Z",
               "EditorCaption": ""
             }
           ]

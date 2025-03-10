@@ -14,6 +14,9 @@
 #include "Intro.h"
 #include "Play.h"
 #include "Enforce.h"
+#include "Random.h"
+#include "Console.h"
+#include "Dungeon.h"
 
 int L_playerX = 2, L_playerY = 8; //플레이어 시작 위치 설정
 int L_Coin = 10;
@@ -21,5 +24,6 @@ int L_QuestCoin = 0;
 int W_level = 0;
 
 int main() {
+	D_CreateRandomSeed();
 	L_ShowGameMenu();
 }

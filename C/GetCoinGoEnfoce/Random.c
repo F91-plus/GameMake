@@ -7,12 +7,22 @@ void D_CreateRandomSeed()
 
 int D_ReturnPosX()
 {
-	return 0;
+	return rand() % 15 + 3;//2~15
 }
 
 int D_ReturnPosY()
 {
-	return 0;
+	return rand() % 15 + 3;//2~15
+}
+
+int D_CreateItem_X()
+{
+	return rand() % 13 + 4;
+}
+
+int D_CreateItem_Y()
+{
+	return rand() % 13 + 4;
 }
 
 int E_ReturnRandomValue()
@@ -31,4 +41,10 @@ bool E_CheckRandomFunc(int percent)
 	else {
 		return false;
 	}
+}
+
+int Q_count()
+{
+	 // 1~3°³¸¸
+	return rand() % 3 + 1;
 }

@@ -55,10 +55,6 @@ void L_ShowGameMenu()
 
 		}
 		
-		
-		/*I_setCursorPos(20, 30);
-		printf("현재 좌표(테스트) : %d, %d\n", IntroX, IntroY);*/
-
 		I_setCursorPos(20, IntroY);
 		printf(">");
 

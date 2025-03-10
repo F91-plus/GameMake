@@ -4,6 +4,10 @@ bool V_Enforce = false;
 bool V_Quest = false;
 bool V_Dungeon = false;
 
+int q_count = 0;	// 퀘스트 수락 시 랜덤하게 목표 값이 생성
+int q_clear = 0;	// 퀘스트 클리어 횟수
+int q_item = 0;		// 던전에서 얻은 퀘스트 아이템
+
 void L_GameLoop() {
 	V_Enforce = false;	// 좌표도 조건이라 bool 설정 안해도 상관없을 듯?
 
@@ -51,6 +55,16 @@ void L_GameLoop() {
 				// x,y 좌표가 그대로
 			}
 		}
+
+		if (V_Quest) {
+			I_setCursorPos(30, 13);
+			printf("퀘스트 진행 중");//개수는 random
+			I_setCursorPos(30, 14);
+			printf("내용 %d개의 물건 수집하기", q_count);//개수는 random
+			I_setCursorPos(30, 15);
+			printf("현재 모은 개수 : %d개 ", q_item);
+		}
+
 		I_setCursorPos(30, 20);
 		printf("소지금 정보");
 		I_setCursorPos(30, 21);
@@ -61,22 +75,18 @@ void L_GameLoop() {
 		I_setCursorPos(L_playerX, L_playerY);
 		printf("□");
 
-		if (V_Quest) {
-			I_setCursorPos(30, 13);
-			printf("퀘스트 진행 중");//개수는 random
-			I_setCursorPos(30, 14);
-			printf("내용 %d개의 물건 수집하기", 1);//개수는 random
-		}
+		Sleep(70);
 
-		Sleep(50);
-
-		//Enfoce
+		// Enfoce
 		if (L_playerX == 1 && L_playerY == 16) {
 			V_Enforce = true;
 			break;
 		}
-		//Quest
-		if (L_playerX == 16 && L_playerY == 8) {
+		// Quest
+		if (L_playerX == 16 && L_playerY == 8 && W_level >= 10) {
+			break;
+		}
+		else if (L_playerX == 16 && L_playerY == 8) {
 			L_playerX = 10, L_playerY = 8;
 			I_setCursorPos(L_playerX, L_playerY);
 			printf("□");
@@ -96,7 +106,29 @@ void L_GameLoop() {
 				V_Quest = true;
 				I_setCursorPos(30, 11);
 				printf("퀘스트 수락!");
+
+				Sleep(100);
+
+				q_count = Q_count();
+				I_setCursorPos(30, 13);
+				printf("퀘스트 진행 중");//개수는 random
+				I_setCursorPos(30, 14);
+				printf("내용 %d개의 물건 수집하기", q_count);//개수는 random
+				I_setCursorPos(30, 15);
+				printf("현재 모은 개수 : %d개 ", q_item);
 			}
+		}
+
+		if (q_item >= q_count && V_Quest == true) {
+			Sleep(100);
+			I_setCursorPos(30, 13);
+			printf("퀘스트 클리어");
+
+			q_item = 0;
+			L_Coin += q_count;
+			L_QuestCoin++;
+			q_count = 0;
+			V_Quest = false;
 		}
 
 		//Dungeon
@@ -110,13 +142,25 @@ void L_GameLoop() {
 			I_setCursorPos(30, 12);
 			printf("퀘스트 수락 필요!");
 		}
+
+		//clear check
+	}
+	if (W_level >= 10) {
+		system("cls");
+		printf("게임 클리어!!");
+		Sleep(1000);
+		L_ShowGameMenu();
 	}
 
 	if (V_Enforce) {
 		L_Enforce();
 	}
-	if (V_Dungeon) {
 
+	if (V_Dungeon) {
+		int D_randomX = D_ReturnPosX();
+		int D_randomY = D_ReturnPosY();
+		D_Map(D_randomX, D_randomY);
+		D_Play(D_randomX, D_randomY);
 	}
 
 }

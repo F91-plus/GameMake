@@ -11,12 +11,13 @@ void L_Enforce()
 void L_ShowEnforce()
 {
 	system("cls");
-	printf("현재 Coin : %d, QuestCoin : %d\n\n", L_Coin, L_QuestCoin);
+	printf("현재 Coin : %d, QuestCoin : %d \n\n", L_Coin, L_QuestCoin);
 	printf("무기 강화소에 어서 오세요\n");
 	printf("무기 강화 확률(일반 : 70%, 특수 100%)\n\n");
-	printf("   일반 강화 - (Coin : 3 소모)\n");
+	printf("   일반 강화 - (Coin : 2 소모)\n");
 	printf("   특수 강화 - (QuestCoin : 1 소모)\n");
 	printf("   강화 종료\n");
+	printf("\n현재 무기 정보 : +%d %s", W_level, "초보자의 검");
 	
 	L_playerX = 1, L_playerY = 5;
 
@@ -71,8 +72,8 @@ void L_ShowEnforce()
 
 void L_NormalEnforce()
 {
-	if (L_Coin > 0) {
-		L_Coin--;
+	if (L_Coin >= 2) {
+		L_Coin -= 2;
 		if (E_CheckRandomFunc(70)) {
 			W_level++;
 			Enforce_ResetText();
@@ -105,12 +106,14 @@ void L_NormalEnforce()
 		printf("Coin을 얻은 수 시도하세요");
 	}
 	I_setCursorPos(0,0);
-	printf("현재 Coin : %d, QuestCoin : %d\n\n", L_Coin, L_QuestCoin);
+	printf("현재 Coin : %d, QuestCoin : %d \n\n", L_Coin, L_QuestCoin);
+	I_setCursorPos(0, 8);
+	printf("\n현재 무기 정보 : +%d %s", W_level, "초보자의 검");
 }
 
 void L_SuperEnforce()
 {
-	if (L_QuestCoin >= 0) {
+	if (L_QuestCoin > 0) {
 		L_QuestCoin--;
 		W_level++;
 		Enforce_ResetText();
@@ -132,7 +135,10 @@ void L_SuperEnforce()
 	}
 
 	I_setCursorPos(0, 0);
-	printf("현재 Coin : %d, QuestCoin : %d\n\n", L_Coin, L_QuestCoin);
+	printf("현재 Coin : %d, QuestCoin : %d \n\n", L_Coin, L_QuestCoin);
+	I_setCursorPos(0, 8);
+	printf("\n현재 무기 정보 : +%d %s", W_level, "초보자의 검");
+
 }
 
 void Enforce_ResetText()
