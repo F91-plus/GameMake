@@ -1,0 +1,4 @@
+﻿  Enforce.c
+C:\Users\plusf\Desktop\GameMake\C\GetCoinGoEnfoce\Enforce.c(16,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 ','이(가) 있습니다.
+C:\Users\plusf\Desktop\GameMake\C\GetCoinGoEnfoce\Enforce.c(16,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 ')'이(가) 있습니다.
+  GetCoinGoEnfoce.vcxproj -> C:\Users\plusf\Desktop\GameMake\C\CStudy\x64\Debug\GetCoinGoEnfoce.exe

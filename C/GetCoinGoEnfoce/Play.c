@@ -1,0 +1,168 @@
+#include "Play.h"
+
+bool V_Enforce = false;
+bool V_Quest = false;
+bool V_Dungeon = false;
+
+void L_GameLoop() {
+	V_Enforce = false;	// 좌표도 조건이라 bool 설정 안해도 상관없을 듯?
+
+	ShowLoading();
+	ShowVillage();
+
+	while (true) {
+		if (_kbhit()) {
+			I_setCursorPos(L_playerX, L_playerY);//2, 8
+			printf("  ");
+
+			if (GetAsyncKeyState(VK_UP) & 0x8000) {
+				//위
+				L_playerY -= 1;
+				if (L_playerY <= 8) {
+					L_playerY = 8;
+				}
+			}
+
+			if (GetAsyncKeyState(VK_DOWN) & 0x8000) {
+				//아래
+				L_playerY += 1;
+				if (L_playerY >= 16) {
+					L_playerY = 16;
+				}
+			}
+
+			if (GetAsyncKeyState(VK_LEFT) & 0x8000) {
+				//좌
+				L_playerX -= 1;
+				if (L_playerX <= 0) {
+					L_playerX = 1;
+				}
+			}
+
+			if (GetAsyncKeyState(VK_RIGHT) & 0x8000) {
+				//우
+				L_playerX += 1;
+				if (L_playerX >= 17) {
+					L_playerX = 16;
+				}
+			}
+			else
+			{
+				// x,y 좌표가 그대로
+			}
+		}
+		I_setCursorPos(30, 20);
+		printf("소지금 정보");
+		I_setCursorPos(30, 21);
+		printf("Coin : %d, QuestCoin : %d", L_Coin, L_QuestCoin);
+		I_setCursorPos(30, 22);
+		printf("무기 정보 : [+%d] %s", W_level, "초보자의 검");
+		
+		I_setCursorPos(L_playerX, L_playerY);
+		printf("□");
+
+		if (V_Quest) {
+			I_setCursorPos(30, 13);
+			printf("퀘스트 진행 중");//개수는 random
+			I_setCursorPos(30, 14);
+			printf("내용 %d개의 물건 수집하기", 1);//개수는 random
+		}
+
+		Sleep(50);
+
+		//Enfoce
+		if (L_playerX == 1 && L_playerY == 16) {
+			V_Enforce = true;
+			break;
+		}
+		//Quest
+		if (L_playerX == 16 && L_playerY == 8) {
+			L_playerX = 10, L_playerY = 8;
+			I_setCursorPos(L_playerX, L_playerY);
+			printf("□");
+
+			Sleep(100);
+
+			I_setCursorPos(16, 8);
+			printf("Q");
+
+			if (V_Quest) {
+				ResetText();
+				I_setCursorPos(30, 10);
+				printf("이미 퀘스트가 진행 중 입니다.");
+			}
+			else
+			{
+				V_Quest = true;
+				I_setCursorPos(30, 11);
+				printf("퀘스트 수락!");
+			}
+		}
+
+		//Dungeon
+		if (L_playerX == 16 && L_playerY == 12 && V_Quest == 1) {
+			V_Dungeon = true;
+			break;
+		}
+		else if(L_playerX == 16 && L_playerY == 12 && V_Quest == 0)
+		{
+			ResetText();
+			I_setCursorPos(30, 12);
+			printf("퀘스트 수락 필요!");
+		}
+	}
+
+	if (V_Enforce) {
+		L_Enforce();
+	}
+	if (V_Dungeon) {
+
+	}
+
+}
+
+void ShowVillage()
+{
+	system("cls");
+	printf("\n\n\n\n\n\n\n");
+	printf("■■■■■■■■■■■■■■■■■■■\n");
+	printf("■                 ■\n"); //공백 17
+	printf("■                 ■\n");
+	printf("■                 ■\n");
+	printf("■                 ■\n");
+	printf("■                 ■\n"); // 
+	printf("■                 ■\n");
+	printf("■                 ■\n");
+	printf("■                 ■\n");
+	printf("■                 ■\n");
+	printf("■■■■■■■■■■■■■■■■■■■\n");
+
+	L_playerX = 2, L_playerY = 8; //초기 플레이어 위치 강제 설정
+
+	I_setCursorPos(L_playerX, L_playerY);	
+	printf("□");
+	I_setCursorPos(1, 16);	//무기 강화 위치
+	printf("E");
+	I_setCursorPos(16, 8);	// 퀘스트 수락 위치
+	printf("Q");
+	I_setCursorPos(16, 12);	// 던전 위치
+	printf("D");
+}
+
+void ShowLoading()
+{
+	system("cls");
+	printf("============================\n");
+	printf("마을로 이동중...\n");
+	printf("============================\n");
+	Sleep(500);
+}
+
+void ResetText()
+{
+	for (int i = 10; i < 20; i++)
+	{
+		I_setCursorPos(30, i);
+		printf("                            ");
+	}
+}

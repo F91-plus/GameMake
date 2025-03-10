@@ -3,7 +3,7 @@
 void ShowBorder()
 {
 	printf("■ ■ ■ ■ ■ ■ ■ ■ ■ ■\n");
-	printf("■                 ■\n"); //공백 18개
+	printf("■                 ■\n"); //공백 17
 	printf("■                 ■\n"); 
 	printf("■                 ■\n"); 
 	printf("■                 ■\n"); 
