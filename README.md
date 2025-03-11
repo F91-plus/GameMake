@@ -21,7 +21,8 @@
 
 ### [1.02.01] 2025-03-11
 ### 출시
-![1.타이틀 이미지](/.image/Intro.png)
+![1.타이틀 이미지](/image/Intro.png)
+<img src="/image/VillagePlay.png" width = "400" height = "300" title="village">
 
 ### 변경 사항
 - 마을에서 표시되는 상호작용 위치 색상 변경
