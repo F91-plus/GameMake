@@ -179,7 +179,8 @@ void L_GameLoop() {
 		L_Coin = 10;
 		L_QuestCoin = 0;
 
-		Sleep(1000);
+		Sleep(3000);
+		system("cls");
 		L_ShowGameMenu();
 	}
 

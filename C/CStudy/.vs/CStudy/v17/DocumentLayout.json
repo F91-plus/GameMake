@@ -3,10 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\CStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Enforce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Enforce.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFDA7604-C68E-42FF-88A1-472B2BE40EEF}|..\\GetCoinGoEnfoce\\GetCoinGoEnfoce.vcxproj|C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Dungeon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -24,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\main.c",
+              "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\main.c",
+              "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\main.c",
+              "RelativeToolTip": "..\\GetCoinGoEnfoce\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-11T08:11:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Enforce.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Enforce.c",
               "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Enforce.c",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Enforce.c",
               "RelativeToolTip": "..\\GetCoinGoEnfoce\\Enforce.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-11T07:23:56.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Dungeon.c",
               "DocumentMoniker": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Dungeon.c",
               "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Dungeon.c",
@@ -44,8 +60,7 @@
               "RelativeToolTip": "..\\GetCoinGoEnfoce\\Dungeon.c",
               "ViewState": "AgIAAL0AAAAAAAAAAAAAAKMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-11T07:16:46.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T07:16:46.2Z"
             },
             {
               "$type": "Document",
@@ -55,7 +70,7 @@
               "RelativeDocumentMoniker": "..\\GetCoinGoEnfoce\\Play.c",
               "ToolTip": "C:\\Users\\plusf\\Desktop\\GameMake\\C\\GetCoinGoEnfoce\\Play.c",
               "RelativeToolTip": "..\\GetCoinGoEnfoce\\Play.c",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-11T07:04:07.124Z",
               "EditorCaption": ""
