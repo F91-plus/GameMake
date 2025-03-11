@@ -93,8 +93,10 @@ void L_GameLoop() {
 
 			Sleep(100);
 
+			SetColor(0, 3);
 			I_setCursorPos(16, 8);
 			printf("Q");
+			SetColor(0, 7);
 
 			if (V_Quest) {
 				ResetText();
@@ -120,9 +122,14 @@ void L_GameLoop() {
 		}
 
 		if (q_item >= q_count && V_Quest == true) {
-			Sleep(100);
 			I_setCursorPos(30, 13);
 			printf("퀘스트 클리어");
+			I_setCursorPos(30, 14);
+			printf("                                  ");
+			I_setCursorPos(30, 15);
+			printf("                                  ");
+
+			Sleep(100);
 
 			q_item = 0;
 			L_Coin += q_count;
@@ -141,6 +148,17 @@ void L_GameLoop() {
 			ResetText();
 			I_setCursorPos(30, 12);
 			printf("퀘스트 수락 필요!");
+
+			L_playerX = 10, L_playerY = 12;
+			I_setCursorPos(L_playerX, L_playerY);
+			printf("□");
+
+			Sleep(100);
+
+			SetColor(0, 4);
+			I_setCursorPos(16, 12);
+			printf("D");
+			SetColor(0, 7);
 		}
 
 		//clear check
@@ -148,6 +166,19 @@ void L_GameLoop() {
 	if (W_level >= 10) {
 		system("cls");
 		printf("게임 클리어!!");
+
+		V_Enforce = false;
+		V_Quest = false;
+		V_Dungeon = false;
+
+		q_count = 0;
+		q_clear = 0;
+		q_item = 0;
+		W_level = 0;
+
+		L_Coin = 10;
+		L_QuestCoin = 0;
+
 		Sleep(1000);
 		L_ShowGameMenu();
 	}
@@ -185,12 +216,19 @@ void ShowVillage()
 
 	I_setCursorPos(L_playerX, L_playerY);	
 	printf("□");
+	SetColor(0, 2);
 	I_setCursorPos(1, 16);	//무기 강화 위치
-	printf("E");
+	printf("U");
+	SetColor(0, 3);
 	I_setCursorPos(16, 8);	// 퀘스트 수락 위치
 	printf("Q");
+	SetColor(0, 4);
 	I_setCursorPos(16, 12);	// 던전 위치
 	printf("D");
+	SetColor(0, 7);
+
+	I_setCursorPos(30, 9);	// 게임 목표
+	printf("무기를 10강 까지 강화하기");
 }
 
 void ShowLoading()

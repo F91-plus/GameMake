@@ -4,13 +4,6 @@ int D_xPos = 0, D_yPos = 0;
 int q_itemPosX1 = 0;
 int q_itemPosY1 = 0;
 
-int q_itemPosX2 = 0;
-int q_itemPosY2 = 0;
-
-int q_itemPosX3 = 0;
-int q_itemPosY3 = 0;
-
-
 void D_Play(int x, int y) {
 	GoVillage_D = false;
 
@@ -138,8 +131,8 @@ void D_Map(int D_x, int D_y)
 
 	while (true)
 	{
-		I_setCursorPos(30, 5);
-		printf("X : %d	Y : %d", q_itemPosX1, q_itemPosY1);
+		//I_setCursorPos(30, 5);
+		//printf("X : %d	Y : %d", q_itemPosX1, q_itemPosY1);
 		//printf("D_xPos : %d  D_yPos : %d  D_xCount : %d  D_yCount : %d\n", D_xPos, D_yPos, D_xCount, D_yCount);
 		//Sleep(1000);
 
@@ -166,8 +159,10 @@ void D_Map(int D_x, int D_y)
 
 			for (int i = 0; i < D_x; i++) {
 				if (q_itemPosX1 == D_xPos && q_itemPosY1 == D_yPos) {
+					SetColor(0, 2);
 					I_setCursorPos(D_xPos, D_yPos);
 					printf("*");
+					SetColor(0, 7);
 				}
 				else
 				{
@@ -198,19 +193,12 @@ void D_Map(int D_x, int D_y)
 			break;
 		}
 
-		SetColor(0, 2);
-		if (q_count <= 3) {
-			
-		}
- 
-		SetColor(0, 7);
 	}
 	I_setCursorPos(D_x - 1, D_y - 1);
 	printf("E");
 
 	//랜덤하게 생성하게 할려면 배열이 필요할 듯, 아니면 노가다
 	// 수집품 생성
-	
 
 	D_xCount = 0;
 	D_yCount = 0;

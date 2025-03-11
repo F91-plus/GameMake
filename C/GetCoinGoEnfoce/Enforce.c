@@ -17,7 +17,7 @@ void L_ShowEnforce()
 	printf("   일반 강화 - (Coin : 2 소모)\n");
 	printf("   특수 강화 - (QuestCoin : 1 소모)\n");
 	printf("   강화 종료\n");
-	printf("\n현재 무기 정보 : +%d %s", W_level, "초보자의 검");
+	printf("\n현재 무기 정보 : [+%d] %s", W_level, "초보자의 검");
 	
 	L_playerX = 1, L_playerY = 5;
 
@@ -108,7 +108,7 @@ void L_NormalEnforce()
 	I_setCursorPos(0,0);
 	printf("현재 Coin : %d, QuestCoin : %d \n\n", L_Coin, L_QuestCoin);
 	I_setCursorPos(0, 8);
-	printf("\n현재 무기 정보 : +%d %s", W_level, "초보자의 검");
+	printf("\n현재 무기 정보 : [+%d] %s", W_level, "초보자의 검");
 }
 
 void L_SuperEnforce()
@@ -137,7 +137,7 @@ void L_SuperEnforce()
 	I_setCursorPos(0, 0);
 	printf("현재 Coin : %d, QuestCoin : %d \n\n", L_Coin, L_QuestCoin);
 	I_setCursorPos(0, 8);
-	printf("\n현재 무기 정보 : +%d %s", W_level, "초보자의 검");
+	printf("\n현재 무기 정보 : [+%d] %s", W_level, "초보자의 검");
 
 }
 
